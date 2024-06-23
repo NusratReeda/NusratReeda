@@ -12,14 +12,14 @@ Full-Stack Web Development:
 💾 Database: MySQL, PostgreSQL, MongoDB**
 
 Data Analysis:
-🧹 Data Wrangling and Cleaning (it's like tidying up, but for data)
+🧹 **Data Wrangling and Cleaning (it's like tidying up, but for data)
 📊 Statistical Analysis (numbers are my friends)
-🎨 Data Visualization: Tableau, Power BI
+🎨 Data Visualization: Tableau, Power BI**
 
 Tools and Technologies:
 
 🌀 **Version Control: Git, GitHub
-⚙️ DevOps: Docker, Jenkins, Kubernetes
+⚙️ DevOps: Docker, Jenkins, Kubernetes<br>
 ☁️ Cloud Platforms: AWS, Google Cloud**
 
 - 🌱 I’m currently learning **Framework, Courses etc**
