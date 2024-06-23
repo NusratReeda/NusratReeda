@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nusratreeda&show_icons=true&locale=en&layout=compact"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratreeda&layout=compact"/></p><br><br><br><br>
 
 <h3 align="left"></h3><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nusratreeda&" alt="nusratreeda" /></p>
+<p><img align="left" width="100%"src="https://github-readme-streak-stats.herokuapp.com/?user=nusratreeda&" alt="nusratreeda" /></p>
