@@ -5,6 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusratreeda&label=Profile%20views&color=0e75b6&style=flat" alt="nusratreeda" /> </p>
 
+<h3 align="center">Skills:</h3>h3>
+Full-Stack Web Development:
+
+🖌️ Front-end: HTML, CSS, JavaScript, React (my BFF), Angular (we're on good terms)
+🛠️ Back-end: Node.js, Express.js, Django, Ruby on Rails
+💾 Database: MySQL, PostgreSQL, MongoDB
+
 - 🌱 I’m currently learning **Framework, Courses etc**
 
 - 💬 Ask me about **React, Angular etc**
