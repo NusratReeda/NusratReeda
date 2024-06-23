@@ -28,13 +28,13 @@ Tools and Technologies:
 GraphQL: It's all about the queries!
 DevOps tricks and treats: Making deployment a piece of cake!**
 
-- 💬 Ask me about **React: My MVP (Most Valuable Player 🏆)
-Angular: An old buddy of mine 🤓
-Python: My sidekick for data adventures 🐍
-Docker: Containerizing all the things 🐳
-VS Code: My favorite code editor (I live here! ✍️)
-Postman: For API testing and beyond (requests made easy 📬)
-Git: Keeping track of my code journeys (version control ninja 🥷)
+- 💬 Ask me about **React: My MVP (Most Valuable Player 🏆),
+Angular: An old buddy of mine 🤓,
+Python: My sidekick for data adventures 🐍,
+Docker: Containerizing all the things 🐳,
+VS Code: My favorite code editor (I live here! ✍️),
+Postman: For API testing and beyond (requests made easy 📬),
+Git: Keeping track of my code journeys (version control ninja 🥷),
 Figma: Designing with flair (UI/UX magic 🎨)**
 
 - 📫 How to reach me **nusratmohammedayubgulbarga@gmail.com**
