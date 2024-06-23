@@ -25,7 +25,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nusratgulbarga"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nusratgulbarga" /></a></p><br><br>
 <h3 align="left">Stats:</h3>
-<p><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=nusratreeda&show_icons=true&theme=dark#gh-dark-mode-only&title_color=#c43781" /></p>
+<p><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true?theme=THEME_NAME=neon" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratreeda&show_icons=true&locale=en&layout=compact" alt="nusratreeda" /></p>
 
