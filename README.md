@@ -30,7 +30,7 @@ Tools and Technologies:
 
 - 💬 Ask me about **React: My MVP (Most Valuable Player 🏆),**
 **Angular: An old buddy of mine 🤓,**
-Python: My sidekick for data adventures 🐍,
+**Python: My sidekick for data adventures 🐍,
 Docker: Containerizing all the things 🐳,
 VS Code: My favorite code editor (I live here! ✍️),
 Postman: For API testing and beyond (requests made easy 📬),
