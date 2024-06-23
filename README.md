@@ -7,17 +7,14 @@
 
 <h3 align="left"><b>Skills:</b></h3>
 Full-Stack Web Development:
-
-🖌️ Front-end: **HTML, CSS, JavaScript, React (my BFF), Angular (we're on good terms)**
-🛠️ Back-end: **Node.js, Express.js, Django** 
-💾 Database: **MySQL, PostgreSQL, MongoDB**
-
+🖌️ **Front-end: HTML, CSS, JavaScript, React (my BFF), Angular (we're on good terms)
+🛠️ Back-end: Node.js, Express.js, Django
+💾 Database: MySQL, PostgreSQL, MongoDB**
 
 Data Analysis:
-
-🧹 **Data Wrangling and Cleaning (it's like tidying up, but for data)
+🧹 Data Wrangling and Cleaning (it's like tidying up, but for data)
 📊 Statistical Analysis (numbers are my friends)
-🎨 Data Visualization: Tableau, Power BI**
+🎨 Data Visualization: Tableau, Power BI
 
 Tools and Technologies:
 
