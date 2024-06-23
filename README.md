@@ -20,16 +20,16 @@ Data Analysis:
 
 Tools and Technologies:
 
-🌀 **Version Control: Git, GitHub.
-⚙️ DevOps: Docker, Jenkins, Kubernetes.
-☁️ Cloud Platforms: AWS, Google Cloud**
+🌀 **Version Control: Git, GitHub.**
+⚙️ **DevOps: Docker, Jenkins, Kubernetes.**
+☁️ **Cloud Platforms: AWS, Google Cloud**
 
-- 🌱 I’m currently learning **FSvelte: Because it’s smooth and sleek.
-GraphQL: It's all about the queries!
-DevOps tricks and treats: Making deployment a piece of cake!**
+- 🌱 I’m currently learning **Svelte: Because it’s smooth and sleek.**
+**GraphQL: It's all about the queries!**
+**DevOps tricks and treats: Making deployment a piece of cake!**
 
-- 💬 Ask me about **React: My MVP (Most Valuable Player 🏆),
-Angular: An old buddy of mine 🤓,
+- 💬 Ask me about **React: My MVP (Most Valuable Player 🏆),**
+**Angular: An old buddy of mine 🤓,**
 Python: My sidekick for data adventures 🐍,
 Docker: Containerizing all the things 🐳,
 VS Code: My favorite code editor (I live here! ✍️),
