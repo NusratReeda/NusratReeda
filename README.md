@@ -1,41 +1,50 @@
 <h1 align="center">Hi 👋, I'm NUSRAT GULBARGA</h1>
 <h3 align="center">A passionate Full-Stack Web Developer, Data Analyst, and Freelancer Extraordinaire from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="coding" width="400" height="700" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusratreeda&label=Profile%20views&color=0e75b6&style=flat" alt="nusratreeda" /> </p>
 
 <h3 align="left"><b>Skills:</b></h3>
 
-Full-Stack Web Development:
+💻 Full-Stack:
 
-🖌️ **Front-end: HTML, CSS, JavaScript, React (my BFF), Angular (we're on good terms) 🛠️ Back-end: Node.js, Express.js, Django
-💾 Database: MySQL, PostgreSQL, MongoDB**
+**Front-end: HTML, CSS, JavaScript, React (my BFF), Angular (we're on good terms)**
 
-Data Analysis:
+**Back-end: Node.js, Express.js, Django**
 
-🧹 **Data Wrangling and Cleaning (it's like tidying up, but for data)
-📊 Statistical Analysis (numbers are my friends)
-🎨 Data Visualization: Tableau, Power BI**
+**Database: MySQL, PostgreSQL, MongoDB**
 
-Tools and Technologies:
+📊 Data Analysis:
 
-🌀 **Version Control: Git, GitHub.**
-⚙️ **DevOps: Docker, Jenkins, Kubernetes.**
-☁️ **Cloud Platforms: AWS, Google Cloud**
+**Data Wrangling and Cleaning: Tidying up, but for data**
 
-- 🌱 I’m currently learning **Svelte: Because it’s smooth and sleek.**
+**Statistical Analysis: Numbers are my friends**
+
+**Data Visualization: Tableau, Power BI**
+
+🔧 Tools & Technologies:
+
+**Version Control: Git, GitHub**
+
+**DevOps: Docker, Jenkins, Kubernetes**
+
+**Cloud Platforms: AWS, Google Cloud**
+
+🌱 Currently Learning:
+
+**Svelte: Because it’s smooth and sleek**
+
 **GraphQL: It's all about the queries!**
-**DevOps tricks and treats: Making deployment a piece of cake!**
 
-- 💬 Ask me about **React: My MVP (Most Valuable Player 🏆),**
-**Angular: An old buddy of mine 🤓,**
-**Python: My sidekick for data adventures 🐍,
-Docker: Containerizing all the things 🐳,
-VS Code: My favorite code editor (I live here! ✍️),
-Postman: For API testing and beyond (requests made easy 📬),
-Git: Keeping track of my code journeys (version control ninja 🥷),
-Figma: Designing with flair (UI/UX magic 🎨)**
+**DevOps Tricks & Treats: Making deployment a piece of cake**
+
+💬 Ask Me About: *React 🏆
+Angular🤓
+Python 🐍
+Docker 🐳
+VS Code💻
+Figma 🎨*
 
 - 📫 How to reach me **nusratmohammedayubgulbarga@gmail.com**
 
@@ -58,4 +67,4 @@ Figma: Designing with flair (UI/UX magic 🎨)**
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nusratreeda&show_icons=true&locale=en&layout=compact"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratreeda&layout=compact"/></p><br><br><br><br>
 
 <h3 align="left"></h3><br><br>
-<p><img align="left" width="100%"src="https://github-readme-streak-stats.herokuapp.com/?user=nusratreeda&" alt="nusratreeda" /></p>
+<p><img align="left" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nusratreeda&" alt="nusratreeda" /></p>
